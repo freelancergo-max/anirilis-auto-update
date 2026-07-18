@@ -1,6 +1,4 @@
-// Dibuat otomatis oleh scripts/scrape-samehadaku.mjs
-// Metadata dan tautan sumber saja; tidak mengunduh atau menyimpan video.
-window.ANIRILIS_DATA = [
+[
   {
     "id": "mao-episode-16",
     "title": "MAO",
@@ -553,4 +551,4 @@ window.ANIRILIS_DATA = [
     "sourceUrl": "https://v2.samehadaku.how/mujikaku-seijo-episode-3/",
     "published": "2026-07-14T16:16:15Z"
   }
-];
+]
