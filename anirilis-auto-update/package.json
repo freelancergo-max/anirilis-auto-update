@@ -1,0 +1,12 @@
+{
+  "name": "anirilis-auto-update",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update:data": "node scripts/scrape-samehadaku.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  }
+}
