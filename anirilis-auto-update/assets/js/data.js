@@ -2,6 +2,52 @@
 // Metadata dan tautan sumber saja; tidak mengunduh atau menyimpan video.
 window.ANIRILIS_DATA = [
   {
+    "id": "tsuihou-sareta-tensei-juukishi-wa-game-episode-5",
+    "title": "Tsuihou sareta Tensei Juukishi wa Game",
+    "episode": 5,
+    "type": "TV",
+    "status": "Ongoing",
+    "subtitle": "SUB INDO",
+    "day": "Kamis",
+    "time": "00.08",
+    "genre": [
+      "Anime"
+    ],
+    "rating": 0,
+    "views": 24000,
+    "updated": "1 menit lalu",
+    "studio": "-",
+    "year": 2026,
+    "synopsis": "Informasi Tsuihou sareta Tensei Juukishi wa Game Episode 5. Klik tombol sumber untuk membuka halaman asal.",
+    "accent": "#8b5cf6",
+    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Tsuihou-sareta-Tensei-Juukishi-wa-Game-Episode-5.jpg",
+    "sourceUrl": "https://v2.samehadaku.how/tsuihou-sareta-tensei-juukishi-wa-game-episode-5/",
+    "published": "2026-07-30T17:08:55Z"
+  },
+  {
+    "id": "rakudai-kenja-no-gakuin-musou-episode-6",
+    "title": "Rakudai Kenja no Gakuin Musou",
+    "episode": 6,
+    "type": "TV",
+    "status": "Ongoing",
+    "subtitle": "SUB INDO",
+    "day": "Kamis",
+    "time": "23.11",
+    "genre": [
+      "Anime"
+    ],
+    "rating": 0,
+    "views": 23000,
+    "updated": "58 menit lalu",
+    "studio": "-",
+    "year": 2026,
+    "synopsis": "Informasi Rakudai Kenja no Gakuin Musou Episode 6. Klik tombol sumber untuk membuka halaman asal.",
+    "accent": "#2563eb",
+    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Rakudai-Kenja-no-Gakuin-Musou-Episode-6.jpg",
+    "sourceUrl": "https://v2.samehadaku.how/rakudai-kenja-no-gakuin-musou-episode-6/",
+    "published": "2026-07-30T16:11:55Z"
+  },
+  {
     "id": "tomb-raider-king-episode-4",
     "title": "Tomb Raider King",
     "episode": 4,
@@ -14,12 +60,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 24000,
-    "updated": "6 jam lalu",
+    "views": 22000,
+    "updated": "13 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Tomb Raider King Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#8b5cf6",
+    "accent": "#ef4444",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/web-1-6.jpg",
     "sourceUrl": "https://v2.samehadaku.how/tomb-raider-king-episode-4/",
     "published": "2026-07-30T03:23:03Z"
@@ -37,12 +83,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 23000,
-    "updated": "15 jam lalu",
+    "views": 21000,
+    "updated": "22 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Lv999 no Murabito Episode 6. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#2563eb",
+    "accent": "#10b981",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Lv999-no-Murabito-Episode-6.jpg",
     "sourceUrl": "https://v2.samehadaku.how/lv999-no-murabito-episode-6/",
     "published": "2026-07-29T18:23:24Z"
@@ -60,12 +106,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 22000,
-    "updated": "15 jam lalu",
+    "views": 20000,
+    "updated": "23 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Katainaka no Ossan, Kensei ni Naru S2 Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ef4444",
+    "accent": "#f59e0b",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/image-16.jpg",
     "sourceUrl": "https://v2.samehadaku.how/katainaka-no-ossan-kensei-ni-naru-s2-episode-4/",
     "published": "2026-07-29T17:52:08Z"
@@ -83,12 +129,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 21000,
-    "updated": "16 jam lalu",
+    "views": 19000,
+    "updated": "23 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Otome Game Sekai wa Mob Season 2 Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#10b981",
+    "accent": "#ec4899",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Otome-Game-Sekai-wa-Mob-Seasaon-2-Episode-4.jpg",
     "sourceUrl": "https://v2.samehadaku.how/otome-game-sekai-wa-mob-season-2-episode-4/",
     "published": "2026-07-29T17:37:33Z"
@@ -106,12 +152,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 20000,
-    "updated": "17 jam lalu",
+    "views": 18000,
+    "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Youjo Senki II Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#f59e0b",
+    "accent": "#06b6d4",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/web-1-5.jpg",
     "sourceUrl": "https://v2.samehadaku.how/youjo-senki-ii-episode-4/",
     "published": "2026-07-29T16:41:10Z"
@@ -129,12 +175,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 19000,
-    "updated": "17 jam lalu",
+    "views": 17000,
+    "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Heroine? Seijo? Iie, All Works Maid desu (Hokori)! Episode 6. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ec4899",
+    "accent": "#a855f7",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Heroine-Seijo-Iie-All-Works-Maid-desu-Hokori-Episode-6.jpg",
     "sourceUrl": "https://v2.samehadaku.how/heroine-seijo-iie-all-works-maid-desu-hokori-episode-6/",
     "published": "2026-07-29T15:52:39Z"
@@ -152,12 +198,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 18000,
-    "updated": "19 jam lalu",
+    "views": 16000,
+    "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Clevatess S2 Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#06b6d4",
+    "accent": "#8b5cf6",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Clevatess-Season-2-Episode-4.jpg",
     "sourceUrl": "https://v2.samehadaku.how/clevatess-s2-episode-4/",
     "published": "2026-07-29T14:31:55Z"
@@ -175,12 +221,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 17000,
+    "views": 15000,
     "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Sora wa Akai Kawa no Hotori Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#a855f7",
+    "accent": "#2563eb",
     "poster": "https://v2.samehadaku.how/",
     "sourceUrl": "https://v2.samehadaku.how/sora-wa-akai-kawa-no-hotori-episode-4/",
     "published": "2026-07-28T19:53:14Z"
@@ -198,12 +244,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 16000,
-    "updated": "1 hari lalu",
+    "views": 14000,
+    "updated": "2 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Mujikaku Seijo Episode 5. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#8b5cf6",
+    "accent": "#ef4444",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Mjks5.jpg",
     "sourceUrl": "https://v2.samehadaku.how/mujikaku-seijo-episode-5/",
     "published": "2026-07-28T16:13:09Z"
@@ -221,12 +267,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 15000,
+    "views": 13000,
     "updated": "2 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Liar Game Episode 17. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#2563eb",
+    "accent": "#10b981",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/web-1-3.jpg",
     "sourceUrl": "https://v2.samehadaku.how/liar-game-episode-17/",
     "published": "2026-07-27T18:29:56Z"
@@ -244,12 +290,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 14000,
+    "views": 12000,
     "updated": "2 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Grand Blue Season 3 Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ef4444",
+    "accent": "#f59e0b",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Grand-Blue-Season-3-Episode-4.jpg",
     "sourceUrl": "https://v2.samehadaku.how/grand-blue-season-3-episode-4/",
     "published": "2026-07-27T17:37:27Z"
@@ -267,12 +313,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 13000,
-    "updated": "2 hari lalu",
+    "views": 11000,
+    "updated": "3 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Buchigire Reijou wa Houfuku Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#10b981",
+    "accent": "#ec4899",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Buchigire-Reijou-wa-Houfuku-Episode-4.jpg",
     "sourceUrl": "https://v2.samehadaku.how/buchigire-reijou-wa-houfuku-episode-4/",
     "published": "2026-07-27T17:04:38Z"
@@ -290,12 +336,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 12000,
-    "updated": "2 hari lalu",
+    "views": 10000,
+    "updated": "3 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Toumei na Yoru ni Kakeru Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#f59e0b",
+    "accent": "#06b6d4",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/web-1-2.jpg",
     "sourceUrl": "https://v2.samehadaku.how/toumei-na-yoru-ni-kakeru-episode-4/",
     "published": "2026-07-27T16:29:23Z"
@@ -313,12 +359,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 11000,
-    "updated": "2 hari lalu",
+    "views": 9000,
+    "updated": "3 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Degarashi Ouji Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ec4899",
+    "accent": "#a855f7",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/image-6-1.jpg",
     "sourceUrl": "https://v2.samehadaku.how/degarashi-ouji-episode-4/",
     "published": "2026-07-27T15:38:30Z"
@@ -336,12 +382,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 10000,
-    "updated": "2 hari lalu",
+    "views": 8000,
+    "updated": "3 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu Season 2 Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#06b6d4",
+    "accent": "#8b5cf6",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekakechuu-Season-2-Episode-4.jpg",
     "sourceUrl": "https://v2.samehadaku.how/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-season-2-episode-4/",
     "published": "2026-07-27T14:55:20Z"
@@ -359,12 +405,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 9000,
+    "views": 7000,
     "updated": "3 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi One Piece Episode 1171. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#a855f7",
+    "accent": "#2563eb",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/One-Piece-Episode-1171.jpg",
     "sourceUrl": "https://v2.samehadaku.how/one-piece-episode-1171/",
     "published": "2026-07-26T17:12:22Z"
@@ -382,12 +428,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 8000,
+    "views": 6000,
     "updated": "3 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Kuroneko to Majo no Kyoushitsu Episode 16. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#8b5cf6",
+    "accent": "#ef4444",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/image-4-5.jpg",
     "sourceUrl": "https://v2.samehadaku.how/kuroneko-to-majo-no-kyoushitsu-episode-16/",
     "published": "2026-07-26T17:11:41Z"
@@ -405,12 +451,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 7000,
-    "updated": "3 hari lalu",
+    "views": 5000,
+    "updated": "4 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Nijusseiki Denki Mokuroku Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#2563eb",
+    "accent": "#10b981",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/image-15.jpg",
     "sourceUrl": "https://v2.samehadaku.how/nijusseiki-denki-mokuroku-episode-4/",
     "published": "2026-07-26T16:23:09Z"
@@ -428,12 +474,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 6000,
-    "updated": "3 hari lalu",
+    "views": 4000,
+    "updated": "4 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Mushoku Tensei : Isekai Ittara Honki Dasu Season 3 Episode 5. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ef4444",
+    "accent": "#f59e0b",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/image-2-8.jpg",
     "sourceUrl": "https://v2.samehadaku.how/mushoku-tensei-isekai-ittara-honki-dasu-season-3-episode-5/",
     "published": "2026-07-26T16:01:22Z"
@@ -451,12 +497,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 5000,
-    "updated": "3 hari lalu",
+    "views": 3000,
+    "updated": "4 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Sekai Saikyou no Kouei Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#10b981",
+    "accent": "#ec4899",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/web-1-1.jpg",
     "sourceUrl": "https://v2.samehadaku.how/sekai-saikyou-no-kouei-episode-4/",
     "published": "2026-07-26T15:17:47Z"
@@ -474,12 +520,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 4000,
-    "updated": "3 hari lalu",
+    "views": 2000,
+    "updated": "4 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Futsutsuka na Akujo dewa Gozaimasu Episode 3. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#f59e0b",
+    "accent": "#06b6d4",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Futsutsuka-na-Akujo-dewa-Gozaimasu-Episode-3.jpg",
     "sourceUrl": "https://v2.samehadaku.how/futsutsuka-na-akujo-dewa-gozaimasu-episode-3/",
     "published": "2026-07-26T10:22:55Z"
@@ -497,60 +543,14 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 3000,
-    "updated": "4 hari lalu",
-    "studio": "-",
-    "year": 2026,
-    "synopsis": "Informasi Iwamoto-senpai no Suisen Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ec4899",
-    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Iwamoto-senpai-no-Suisen-04.jpg",
-    "sourceUrl": "https://v2.samehadaku.how/iwamoto-senpai-no-suisen-episode-4/",
-    "published": "2026-07-26T00:00:13Z"
-  },
-  {
-    "id": "saijo-no-osewa-episode-4",
-    "title": "Saijo no Osewa",
-    "episode": 4,
-    "type": "TV",
-    "status": "Ongoing",
-    "subtitle": "SUB INDO",
-    "day": "Sabtu",
-    "time": "02.51",
-    "genre": [
-      "Anime"
-    ],
-    "rating": 0,
-    "views": 2000,
-    "updated": "4 hari lalu",
-    "studio": "-",
-    "year": 2026,
-    "synopsis": "Informasi Saijo no Osewa Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#06b6d4",
-    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Saijo-no-Osewa-Episode-4.jpg",
-    "sourceUrl": "https://v2.samehadaku.how/saijo-no-osewa-episode-4/",
-    "published": "2026-07-25T19:51:27Z"
-  },
-  {
-    "id": "mahou-shoujo-lyrical-nanoha-exgv-episode-4",
-    "title": "Mahou Shoujo Lyrical Nanoha EXGV",
-    "episode": 4,
-    "type": "TV",
-    "status": "Ongoing",
-    "subtitle": "SUB INDO",
-    "day": "Sabtu",
-    "time": "02.32",
-    "genre": [
-      "Anime"
-    ],
-    "rating": 0,
     "views": 1000,
     "updated": "4 hari lalu",
     "studio": "-",
     "year": 2026,
-    "synopsis": "Informasi Mahou Shoujo Lyrical Nanoha EXGV Episode 4. Klik tombol sumber untuk membuka halaman asal.",
+    "synopsis": "Informasi Iwamoto-senpai no Suisen Episode 4. Klik tombol sumber untuk membuka halaman asal.",
     "accent": "#a855f7",
-    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/image-4-4.jpg",
-    "sourceUrl": "https://v2.samehadaku.how/mahou-shoujo-lyrical-nanoha-exgv-episode-4/",
-    "published": "2026-07-25T19:32:19Z"
+    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/07/Iwamoto-senpai-no-Suisen-04.jpg",
+    "sourceUrl": "https://v2.samehadaku.how/iwamoto-senpai-no-suisen-episode-4/",
+    "published": "2026-07-26T00:00:13Z"
   }
 ];
