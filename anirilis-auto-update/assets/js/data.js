@@ -15,7 +15,7 @@ window.ANIRILIS_DATA = [
     ],
     "rating": 0,
     "views": 24000,
-    "updated": "2 jam lalu",
+    "updated": "9 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Sora wa Akai Kawa no Hotori Episode 12. Klik tombol sumber untuk membuka halaman asal.",
