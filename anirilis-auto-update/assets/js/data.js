@@ -2,6 +2,29 @@
 // Metadata dan tautan sumber saja; tidak mengunduh atau menyimpan video.
 window.ANIRILIS_DATA = [
   {
+    "id": "honzuki-no-gekokujou-season-4-episode-23",
+    "title": "Honzuki no Gekokujou Season 4",
+    "episode": 23,
+    "type": "TV",
+    "status": "Ongoing",
+    "subtitle": "SUB INDO",
+    "day": "Sabtu",
+    "time": "17.41",
+    "genre": [
+      "Anime"
+    ],
+    "rating": 0,
+    "views": 24000,
+    "updated": "40 menit lalu",
+    "studio": "-",
+    "year": 2026,
+    "synopsis": "Informasi Honzuki no Gekokujou Season 4 Episode 23. Klik tombol sumber untuk membuka halaman asal.",
+    "accent": "#8b5cf6",
+    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Honzuki-no-Gekokujou-Season-4-Episode-23.jpg",
+    "sourceUrl": "https://v2.samehadaku.how/honzuki-no-gekokujou-season-4-episode-23/",
+    "published": "2026-09-26T10:41:15Z"
+  },
+  {
     "id": "nige-jouzu-no-wakagimi-s2-episode-11",
     "title": "Nige Jouzu no Wakagimi S2",
     "episode": 11,
@@ -14,12 +37,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 24000,
-    "updated": "9 jam lalu",
+    "views": 23000,
+    "updated": "16 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Nige Jouzu no Wakagimi S2 Episode 11. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#8b5cf6",
+    "accent": "#2563eb",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/image-2-9.jpg",
     "sourceUrl": "https://v2.samehadaku.how/nige-jouzu-no-wakagimi-s2-episode-11/",
     "published": "2026-09-25T18:55:58Z"
@@ -37,12 +60,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 23000,
-    "updated": "10 jam lalu",
+    "views": 22000,
+    "updated": "16 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Hell Mode Yarikomizuki no Gamer Season 2 Episode 13. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#2563eb",
+    "accent": "#ef4444",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Hell-Mode-Yarikomizuki-no-Gamer-Season-2-Episode-13-END.jpg",
     "sourceUrl": "https://v2.samehadaku.how/hell-mode-yarikomizuki-no-gamer-season-2-episode-13-end/",
     "published": "2026-09-25T18:45:23Z"
@@ -60,12 +83,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 22000,
-    "updated": "12 jam lalu",
+    "views": 21000,
+    "updated": "19 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Tensei shitara Slime Datta Ken Season 4 Episode 24. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ef4444",
+    "accent": "#10b981",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Tensei-shitara-Slime-Datta-Ken-Season-4-Episode-24-END.jpg",
     "sourceUrl": "https://v2.samehadaku.how/tensei-shitara-slime-datta-ken-season-4-episode-24-end/",
     "published": "2026-09-25T16:18:57Z"
@@ -83,12 +106,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 21000,
+    "views": 20000,
     "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Tsuihou sareta Tensei Juukishi wa Game Episode 13. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#10b981",
+    "accent": "#f59e0b",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Tsuihou-sareta-Tensei-Juukishi-wa-Game-Episode-13.jpg",
     "sourceUrl": "https://v2.samehadaku.how/tsuihou-sareta-tensei-juukishi-wa-game-episode-13/",
     "published": "2026-09-24T18:08:58Z"
@@ -106,12 +129,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 20000,
+    "views": 19000,
     "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Mebius Dust Episode 12. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#f59e0b",
+    "accent": "#ec4899",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Mebius-Dust-Episode-12-END.jpg",
     "sourceUrl": "https://v2.samehadaku.how/mebius-dust-episode-12-end/",
     "published": "2026-09-24T17:25:37Z"
@@ -129,12 +152,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 19000,
+    "views": 18000,
     "updated": "2 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Otome Game Sekai wa Mob Season 2 Episode 12. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ec4899",
+    "accent": "#06b6d4",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Otome-Game-Sekai-wa-Mob-Seasaon-2-Episode-12-END.jpg",
     "sourceUrl": "https://v2.samehadaku.how/otome-game-sekai-wa-mob-season-2-episode-12-end/",
     "published": "2026-09-23T17:33:49Z"
@@ -152,12 +175,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 18000,
+    "views": 17000,
     "updated": "2 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Katainaka no Ossan, Kensei ni Naru S2 Episode 12. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#06b6d4",
+    "accent": "#a855f7",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/image-19.jpg",
     "sourceUrl": "https://v2.samehadaku.how/katainaka-no-ossan-kensei-ni-naru-s2-episode-12-end/",
     "published": "2026-09-23T17:01:37Z"
@@ -175,12 +198,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 17000,
+    "views": 16000,
     "updated": "2 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Youjo Senki II Episode 12. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#a855f7",
+    "accent": "#8b5cf6",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Youjo-Senki-Season-2-Episode-12-END.jpg",
     "sourceUrl": "https://v2.samehadaku.how/youjo-senki-ii-episode-12-end/",
     "published": "2026-09-23T16:26:38Z"
@@ -198,12 +221,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 16000,
+    "views": 15000,
     "updated": "2 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Re:Zero kara Hajimeru Isekai Seikatsu Season 4 Episode 18. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#8b5cf6",
+    "accent": "#2563eb",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/image-17.jpg",
     "sourceUrl": "https://v2.samehadaku.how/rezero-kara-hajimeru-isekai-seikatsu-season-4-episode-18/",
     "published": "2026-09-23T16:07:22Z"
@@ -221,12 +244,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 15000,
+    "views": 14000,
     "updated": "2 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Clevatess S2 Episode 12. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#2563eb",
+    "accent": "#ef4444",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/image-4-7.jpg",
     "sourceUrl": "https://v2.samehadaku.how/clevatess-s2-episode-12/",
     "published": "2026-09-23T13:14:01Z"
@@ -244,12 +267,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 14000,
+    "views": 13000,
     "updated": "3 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Sora wa Akai Kawa no Hotori Episode 12. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ef4444",
+    "accent": "#10b981",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Sora-wa-Akai-Kawa-no-Hotori-Episode-12.jpg",
     "sourceUrl": "https://v2.samehadaku.how/sora-wa-akai-kawa-no-hotori-episode-12/",
     "published": "2026-09-22T19:15:22Z"
@@ -267,12 +290,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 13000,
+    "views": 12000,
     "updated": "4 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Liar Game Episode 25. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#10b981",
+    "accent": "#f59e0b",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/image-2-8.jpg",
     "sourceUrl": "https://v2.samehadaku.how/liar-game-episode-25/",
     "published": "2026-09-21T19:37:46Z"
@@ -290,12 +313,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 12000,
+    "views": 11000,
     "updated": "4 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Grand Blue Season 3 Episode 12. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#f59e0b",
+    "accent": "#ec4899",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Grand-Blue-Season-3-Episode-12-END.jpg",
     "sourceUrl": "https://v2.samehadaku.how/grand-blue-season-3-episode-12-end/",
     "published": "2026-09-21T19:22:06Z"
@@ -313,12 +336,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 11000,
+    "views": 10000,
     "updated": "4 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Buchigire Reijou wa Houfuku Episode 12. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ec4899",
+    "accent": "#06b6d4",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Buchigire-Reijou-wa-Houfuku-Episode-12-END.jpg",
     "sourceUrl": "https://v2.samehadaku.how/buchigire-reijou-wa-houfuku-episode-12-end/",
     "published": "2026-09-21T16:42:14Z"
@@ -336,12 +359,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 10000,
+    "views": 9000,
     "updated": "4 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Toumei na Yoru ni Kakeru Episode 12. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#06b6d4",
+    "accent": "#a855f7",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Toumei-na-Yoru-ni-Kakeru-Kimi-to-Episode-12-END.jpg",
     "sourceUrl": "https://v2.samehadaku.how/toumei-na-yoru-ni-kakeru-episode-12-end/",
     "published": "2026-09-21T15:58:48Z"
@@ -359,12 +382,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 9000,
+    "views": 8000,
     "updated": "4 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Degarashi Ouji Episode 12. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#a855f7",
+    "accent": "#8b5cf6",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/image-15.jpg",
     "sourceUrl": "https://v2.samehadaku.how/degarashi-ouji-episode-12-end/",
     "published": "2026-09-21T15:51:07Z"
@@ -382,12 +405,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 8000,
+    "views": 7000,
     "updated": "4 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu Season 2 Episode 12. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#8b5cf6",
+    "accent": "#2563eb",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekakechuu-Season-2-Episode-12-END.jpg",
     "sourceUrl": "https://v2.samehadaku.how/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-season-2-episode-12-end/",
     "published": "2026-09-21T14:44:58Z"
@@ -405,12 +428,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 7000,
-    "updated": "4 hari lalu",
+    "views": 6000,
+    "updated": "5 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Sekai Saikyou no Kouei Episode 12. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#2563eb",
+    "accent": "#ef4444",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/image-2-7.jpg",
     "sourceUrl": "https://v2.samehadaku.how/sekai-saikyou-no-kouei-episode-12-end/",
     "published": "2026-09-21T05:26:12Z"
@@ -428,12 +451,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 6000,
+    "views": 5000,
     "updated": "5 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Kuroneko to Majo no Kyoushitsu Episode 24. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ef4444",
+    "accent": "#10b981",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/image-13.jpg",
     "sourceUrl": "https://v2.samehadaku.how/kuroneko-to-majo-no-kyoushitsu-episode-24-end/",
     "published": "2026-09-20T17:37:49Z"
@@ -451,12 +474,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 5000,
+    "views": 4000,
     "updated": "5 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Nijusseiki Denki Mokuroku Episode 12. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#10b981",
+    "accent": "#f59e0b",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/image-16-1.jpg",
     "sourceUrl": "https://v2.samehadaku.how/nijusseiki-denki-mokuroku-episode-12/",
     "published": "2026-09-20T17:26:58Z"
@@ -474,12 +497,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 4000,
+    "views": 3000,
     "updated": "5 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Mushoku Tensei : Isekai Ittara Honki Dasu Season 3 Episode 13. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#f59e0b",
+    "accent": "#ec4899",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/image-18.jpg",
     "sourceUrl": "https://v2.samehadaku.how/mushoku-tensei-isekai-ittara-honki-dasu-season-3-episode-13/",
     "published": "2026-09-20T17:01:11Z"
@@ -497,12 +520,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 3000,
+    "views": 2000,
     "updated": "5 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi One Piece Episode 1179. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ec4899",
+    "accent": "#06b6d4",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/One-Piece-Episode-1179.jpg",
     "sourceUrl": "https://v2.samehadaku.how/one-piece-episode-1179/",
     "published": "2026-09-20T16:54:31Z"
@@ -520,37 +543,14 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 2000,
-    "updated": "5 hari lalu",
-    "studio": "-",
-    "year": 2026,
-    "synopsis": "Informasi Futsutsuka na Akujo dewa Gozaimasu Episode 11. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#06b6d4",
-    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Futsutsuka-na-Akujo-dewa-Gozaimasu-Episode-11-END.jpg",
-    "sourceUrl": "https://v2.samehadaku.how/futsutsuka-na-akujo-dewa-gozaimasu-episode-11-end/",
-    "published": "2026-09-20T09:08:25Z"
-  },
-  {
-    "id": "saijo-no-osewa-episode-12",
-    "title": "Saijo no Osewa",
-    "episode": 12,
-    "type": "TV",
-    "status": "Ongoing",
-    "subtitle": "SUB INDO",
-    "day": "Sabtu",
-    "time": "02.46",
-    "genre": [
-      "Anime"
-    ],
-    "rating": 0,
     "views": 1000,
     "updated": "6 hari lalu",
     "studio": "-",
     "year": 2026,
-    "synopsis": "Informasi Saijo no Osewa Episode 12. Klik tombol sumber untuk membuka halaman asal.",
+    "synopsis": "Informasi Futsutsuka na Akujo dewa Gozaimasu Episode 11. Klik tombol sumber untuk membuka halaman asal.",
     "accent": "#a855f7",
-    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Saijo-no-Osewa-Episode-12-END.jpg",
-    "sourceUrl": "https://v2.samehadaku.how/saijo-no-osewa-episode-12-end/",
-    "published": "2026-09-19T19:46:44Z"
+    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/09/Futsutsuka-na-Akujo-dewa-Gozaimasu-Episode-11-END.jpg",
+    "sourceUrl": "https://v2.samehadaku.how/futsutsuka-na-akujo-dewa-gozaimasu-episode-11-end/",
+    "published": "2026-09-20T09:08:25Z"
   }
 ];
