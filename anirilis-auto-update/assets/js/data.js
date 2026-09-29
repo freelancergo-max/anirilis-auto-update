@@ -15,7 +15,7 @@ window.ANIRILIS_DATA = [
     ],
     "rating": 0,
     "views": 24000,
-    "updated": "5 jam lalu",
+    "updated": "12 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Liar Game Episode 26. Klik tombol sumber untuk membuka halaman asal.",
