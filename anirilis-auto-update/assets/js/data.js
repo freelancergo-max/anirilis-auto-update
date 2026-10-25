@@ -2,6 +2,52 @@
 // Metadata dan tautan sumber saja; tidak mengunduh atau menyimpan video.
 window.ANIRILIS_DATA = [
   {
+    "id": "overgeared-episode-5",
+    "title": "Overgeared",
+    "episode": 5,
+    "type": "TV",
+    "status": "Ongoing",
+    "subtitle": "SUB INDO",
+    "day": "Minggu",
+    "time": "22.52",
+    "genre": [
+      "Anime"
+    ],
+    "rating": 0,
+    "views": 24000,
+    "updated": "20 menit lalu",
+    "studio": "-",
+    "year": 2026,
+    "synopsis": "Informasi Overgeared Episode 5. Klik tombol sumber untuk membuka halaman asal.",
+    "accent": "#8b5cf6",
+    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/image-6-3.jpg",
+    "sourceUrl": "https://v2.samehadaku.how/overgeared-episode-5/",
+    "published": "2026-10-25T15:52:46Z"
+  },
+  {
+    "id": "diamond-no-ace-act-ii-season-2-cour-2-episode-3",
+    "title": "Diamond no Ace Act II Season 2 Cour 2",
+    "episode": 3,
+    "type": "TV",
+    "status": "Ongoing",
+    "subtitle": "SUB INDO",
+    "day": "Minggu",
+    "time": "19.13",
+    "genre": [
+      "Anime"
+    ],
+    "rating": 0,
+    "views": 23000,
+    "updated": "4 jam lalu",
+    "studio": "-",
+    "year": 2026,
+    "synopsis": "Informasi Diamond no Ace Act II Season 2 Cour 2 Episode 3. Klik tombol sumber untuk membuka halaman asal.",
+    "accent": "#2563eb",
+    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/image-4-4.jpg",
+    "sourceUrl": "https://v2.samehadaku.how/diamond-no-ace-act-ii-season-2-cour-2-episode-3/",
+    "published": "2026-10-25T12:13:07Z"
+  },
+  {
     "id": "mission-yozakura-family-season-2-part-2-episode-3",
     "title": "Mission: Yozakura Family Season 2 Part 2",
     "episode": 3,
@@ -14,12 +60,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 24000,
-    "updated": "49 menit lalu",
+    "views": 22000,
+    "updated": "5 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Mission: Yozakura Family Season 2 Part 2 Episode 3. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#8b5cf6",
+    "accent": "#ef4444",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Mission-Yozakura-Family-Season-2-Part-2-Episode-3.jpg",
     "sourceUrl": "https://v2.samehadaku.how/mission-yozakura-family-season-2-part-2-episode-3/",
     "published": "2026-10-25T10:32:52Z"
@@ -37,12 +83,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 23000,
-    "updated": "1 jam lalu",
+    "views": 21000,
+    "updated": "6 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Ao Ashi S2 Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#2563eb",
+    "accent": "#10b981",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/image-2-5.jpg",
     "sourceUrl": "https://v2.samehadaku.how/ao-ashi-s2-episode-4/",
     "published": "2026-10-25T10:03:42Z"
@@ -60,12 +106,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 22000,
-    "updated": "1 jam lalu",
+    "views": 20000,
+    "updated": "6 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Ao no Hako Season 2 Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ef4444",
+    "accent": "#f59e0b",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Ao-no-Hako-Season-2-Episode-4.jpg",
     "sourceUrl": "https://v2.samehadaku.how/ao-no-hako-season-2-episode-4/",
     "published": "2026-10-25T09:37:13Z"
@@ -83,12 +129,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 21000,
-    "updated": "16 jam lalu",
+    "views": 19000,
+    "updated": "20 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Kashita Maryoku Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#10b981",
+    "accent": "#ec4899",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Kashita-Maryoku-wa-Revo-Barai-de-Kyousei-Choushuu-Episode-4.jpg",
     "sourceUrl": "https://v2.samehadaku.how/kashita-maryoku-episode-4/",
     "published": "2026-10-24T19:14:34Z"
@@ -106,12 +152,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 20000,
-    "updated": "16 jam lalu",
+    "views": 18000,
+    "updated": "21 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Magical★Explorer Episode 5. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#f59e0b",
+    "accent": "#06b6d4",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/web-1-21.jpg",
     "sourceUrl": "https://v2.samehadaku.how/magical%e2%98%85explorer-episode-5/",
     "published": "2026-10-24T18:34:57Z"
@@ -129,12 +175,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 19000,
-    "updated": "18 jam lalu",
+    "views": 17000,
+    "updated": "22 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi #Zombie Sagashitemasu Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ec4899",
+    "accent": "#a855f7",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Zombie-Sagashitemasu-Episode-4.jpg",
     "sourceUrl": "https://v2.samehadaku.how/zombie-sagashitemasu-episode-4/",
     "published": "2026-10-24T17:14:05Z"
@@ -152,12 +198,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 18000,
-    "updated": "19 jam lalu",
+    "views": 16000,
+    "updated": "23 jam lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Black Clover Season 2 Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#06b6d4",
+    "accent": "#8b5cf6",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Black-Clover-Season-2-Episode-4.jpg",
     "sourceUrl": "https://v2.samehadaku.how/black-clover-season-2-episode-4/",
     "published": "2026-10-24T16:17:49Z"
@@ -175,12 +221,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 17000,
-    "updated": "19 jam lalu",
+    "views": 15000,
+    "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Yasei no Last Boss ga Arawareta! S2 Episode 5. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#a855f7",
+    "accent": "#2563eb",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/web-1-20.jpg",
     "sourceUrl": "https://v2.samehadaku.how/yasei-no-last-boss-ga-arawareta-s2-episode-5/",
     "published": "2026-10-24T15:56:39Z"
@@ -198,12 +244,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 16000,
-    "updated": "20 jam lalu",
+    "views": 14000,
+    "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Tensei shita Daiseijo wa Episode 5. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#8b5cf6",
+    "accent": "#ef4444",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Tensei-shita-Daiseijo-wa-Seijo-de-Aru-Koto-wo-Hitakakusu-Episode-5.jpg",
     "sourceUrl": "https://v2.samehadaku.how/tensei-shita-daiseijo-wa-episode-5/",
     "published": "2026-10-24T14:54:57Z"
@@ -221,12 +267,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 15000,
-    "updated": "21 jam lalu",
+    "views": 13000,
+    "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Romelia Senki Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#2563eb",
+    "accent": "#10b981",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/web-1-19.jpg",
     "sourceUrl": "https://v2.samehadaku.how/romelia-senki-episode-4/",
     "published": "2026-10-24T14:15:11Z"
@@ -244,12 +290,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 14000,
+    "views": 12000,
     "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Shuiro no Kamen Episode 3. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ef4444",
+    "accent": "#f59e0b",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Shuiro-no-Kamen-Episode-3.jpg",
     "sourceUrl": "https://v2.samehadaku.how/shuiro-no-kamen-episode-3/",
     "published": "2026-10-24T10:38:37Z"
@@ -267,12 +313,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 13000,
+    "views": 11000,
     "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Tokyo Revengers S4 Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#10b981",
+    "accent": "#ec4899",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/image-14.jpg",
     "sourceUrl": "https://v2.samehadaku.how/tokyo-revengers-s4-episode-4/",
     "published": "2026-10-23T18:07:04Z"
@@ -290,12 +336,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 12000,
+    "views": 10000,
     "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Tougen Anki: Nikko Kegon no Taki-hen Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#f59e0b",
+    "accent": "#06b6d4",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Tougen-Anki-Nikko-Kegon-no-Taki-hen-Episode-4.jpg",
     "sourceUrl": "https://v2.samehadaku.how/tougen-anki-nikko-kegon-no-taki-hen-episode-4/",
     "published": "2026-10-23T18:00:15Z"
@@ -313,12 +359,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 11000,
+    "views": 9000,
     "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Hotaru no Yomeiri Episode 3. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ec4899",
+    "accent": "#a855f7",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Hotaru-no-Yomeiri-Episode-3.jpg",
     "sourceUrl": "https://v2.samehadaku.how/hotaru-no-yomeiri-episode-3/",
     "published": "2026-10-23T17:25:21Z"
@@ -336,12 +382,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 10000,
+    "views": 8000,
     "updated": "1 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Kusuriya no Hitorigoto Season 3 Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#06b6d4",
+    "accent": "#8b5cf6",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/web-1-18.jpg",
     "sourceUrl": "https://v2.samehadaku.how/kusuriya-no-hitorigoto-season-3-episode-4/",
     "published": "2026-10-23T16:45:06Z"
@@ -359,12 +405,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 9000,
+    "views": 7000,
     "updated": "2 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Hyouken no Majutsushi ga Sekai wo Suberu S2 Episode 3. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#a855f7",
+    "accent": "#2563eb",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/image-2-4.jpg",
     "sourceUrl": "https://v2.samehadaku.how/hyouken-no-majutsushi-ga-sekai-wo-suberu-s2-episode-3/",
     "published": "2026-10-22T19:06:09Z"
@@ -382,12 +428,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 8000,
+    "views": 6000,
     "updated": "2 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Tsuihou sareta Tensei Juukishi wa Game Episode 17. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#8b5cf6",
+    "accent": "#ef4444",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Tsuihou-sareta-Tensei-Juukishi-wa-Game-Episode-17.jpg",
     "sourceUrl": "https://v2.samehadaku.how/tsuihou-sareta-tensei-juukishi-wa-game-episode-17/",
     "published": "2026-10-22T18:17:48Z"
@@ -405,12 +451,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 7000,
-    "updated": "2 hari lalu",
+    "views": 5000,
+    "updated": "3 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi FX Senshi Kurumi-chan Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#2563eb",
+    "accent": "#10b981",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/FX-Senshi-Kurumi-chan-Episode-4.jpg",
     "sourceUrl": "https://v2.samehadaku.how/fx-senshi-kurumi-chan-episode-4/",
     "published": "2026-10-22T13:47:45Z"
@@ -428,12 +474,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 6000,
+    "views": 4000,
     "updated": "3 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Kikansha no Mahou wa Tokubetsu desu Season 2 Episode 3. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ef4444",
+    "accent": "#f59e0b",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Kikansha-no-Mahou-wa-Tokubetsu-desu-Season-2-Episode-3.jpg",
     "sourceUrl": "https://v2.samehadaku.how/kikansha-no-mahou-wa-tokubetsu-desu-season-2-episode-3/",
     "published": "2026-10-21T18:38:00Z"
@@ -451,12 +497,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 5000,
+    "views": 3000,
     "updated": "3 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Shin Tennis no Oujisama Kesshou Member Ketteisen Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#10b981",
+    "accent": "#ec4899",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Shin-Tennis-no-Oujisama-Kesshou-Member-Ketteisen-Episode-4.jpg",
     "sourceUrl": "https://v2.samehadaku.how/shin-tennis-no-oujisama-kesshou-member-ketteisen-episode-4/",
     "published": "2026-10-21T17:37:01Z"
@@ -474,12 +520,12 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 4000,
+    "views": 2000,
     "updated": "3 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Tensei shitara Ken deshita S2 Episode 4. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#f59e0b",
+    "accent": "#06b6d4",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/image-13.jpg",
     "sourceUrl": "https://v2.samehadaku.how/tensei-shitara-ken-deshita-s2-episode-4/",
     "published": "2026-10-21T17:15:50Z"
@@ -497,60 +543,14 @@ window.ANIRILIS_DATA = [
       "Anime"
     ],
     "rating": 0,
-    "views": 3000,
-    "updated": "3 hari lalu",
+    "views": 1000,
+    "updated": "4 hari lalu",
     "studio": "-",
     "year": 2026,
     "synopsis": "Informasi Tantei wa Mou, Shindeiru S2 Episode 3. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#ec4899",
+    "accent": "#a855f7",
     "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/image-8-2.jpg",
     "sourceUrl": "https://v2.samehadaku.how/tantei-wa-mou-shindeiru-s2-episode-3/",
     "published": "2026-10-21T15:47:30Z"
-  },
-  {
-    "id": "sasaki-to-pii-chan-season-2-episode-3",
-    "title": "Sasaki to Pii-chan Season 2",
-    "episode": 3,
-    "type": "TV",
-    "status": "Ongoing",
-    "subtitle": "SUB INDO",
-    "day": "Rabu",
-    "time": "22.44",
-    "genre": [
-      "Anime"
-    ],
-    "rating": 0,
-    "views": 2000,
-    "updated": "3 hari lalu",
-    "studio": "-",
-    "year": 2026,
-    "synopsis": "Informasi Sasaki to Pii-chan Season 2 Episode 3. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#06b6d4",
-    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/Sasaki-to-Pii-chan-Season-2-Episode-3.jpg",
-    "sourceUrl": "https://v2.samehadaku.how/sasaki-to-pii-chan-season-2-episode-3/",
-    "published": "2026-10-21T15:44:42Z"
-  },
-  {
-    "id": "sekai-saikyou-no-majo-episode-3",
-    "title": "Sekai Saikyou no Majo",
-    "episode": 3,
-    "type": "TV",
-    "status": "Ongoing",
-    "subtitle": "SUB INDO",
-    "day": "Rabu",
-    "time": "22.21",
-    "genre": [
-      "Anime"
-    ],
-    "rating": 0,
-    "views": 1000,
-    "updated": "3 hari lalu",
-    "studio": "-",
-    "year": 2026,
-    "synopsis": "Informasi Sekai Saikyou no Majo Episode 3. Klik tombol sumber untuk membuka halaman asal.",
-    "accent": "#a855f7",
-    "poster": "https://v2.samehadaku.how/wp-content/uploads/2026/10/image-10-1.jpg",
-    "sourceUrl": "https://v2.samehadaku.how/sekai-saikyou-no-majo-episode-3/",
-    "published": "2026-10-21T15:21:55Z"
   }
 ];
